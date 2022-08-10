@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export default  axios.create({
-    baseURL:'https://music-dun.vercel.app'
+    baseURL:'https://music-api-theta-henna.vercel.app/'
 })
